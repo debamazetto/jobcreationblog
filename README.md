@@ -20,6 +20,7 @@ nocite: |
 
 
 
+
 The goal of this project is to demonstrate the feasibility of creating replicable blog posts for national statistical agencies. We pick a single blog post from the United States Census Bureau, but the general principle could be applied to many countries' national statistical agencies.
 
 # Source document
